@@ -1,6 +1,6 @@
 # The construction of reference gene catalog and metagenome-assembled genomes of pig gut microbiome.
 
-This directory contains scripts related to the manuscript "A landscape deep metagenome survey of swine gut microbiome spanning age, geography, domestication and gut locations reveals an extensive number of microbial genes and assembled genomes". There are two main parts in the pipeline, the construction of the gene catalog and metagenome-assembled genomes. The processes before assembly are same. 
+This directory contains scripts related to the manuscript "A landscape deep metagenome survey of swine gut microbiome spanning age, geography, domestication and gut locations reveals an extensive number of microbial genes and assembled genomes". 
 
 Before running, you must ensure that all required softwares and databases are installed successfully. 
 
@@ -57,7 +57,7 @@ The name,description and availavlity of the database are as follows:
 
 Note: The version are only the version used in the paper,most of database are constantly updated.
 
-## OVERVIEW OF METAWRAP MODULES
+## OVERVIEW OF PIPELINE
 
 The scripts of metagenomic analysis are placed in "Pipeline" directory. There are two main modules in the pipeline, the construction of the gene catalog and metagenome-assembled genomes. The processes before assembly are same. 
 
@@ -97,9 +97,4 @@ The steps related to reconstruction of metagenome-assembled genomes (MAG) are in
 
 ### Statistical analysis and visualization
 
-Some processing steps in the pipeline, statistical analysis and visualization were handled by scripting with R, Perl or Python languages. These scripts were placed in "Scripts" directory.
-
-
-```python
-
-```
+Some processing steps in the pipeline, statistical analysis and visualization were handled by scripting with R, Shell, Perl or Python languages. These scripts were placed in "Scripts" directory.
