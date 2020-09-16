@@ -59,7 +59,7 @@ Note: The version are only the version used in the paper,most of database are co
 
 ## OVERVIEW OF PIPELINE
 
-The scripts of metagenomic analysis are placed in "Pipeline" directory. There are two main modules in the pipeline, the construction of the gene catalog and metagenome-assembled genomes. The processes before assembly are same. 
+The scripts of metagenomic analysis are placed in "[Pipeline](https://github.com/zhouyunyan/PIGC/tree/master/Pipeline)" directory. There are two main modules in the pipeline, the construction of the gene catalog and metagenome-assembled genomes. The processes before assembly are same. 
 
 ### Shared steps between the construction of the gene catalog and metagenome-assembled genomes
 
@@ -97,4 +97,9 @@ The steps related to reconstruction of metagenome-assembled genomes (MAG) are in
 
 ### Statistical analysis and visualization
 
-Some processing steps in the pipeline, statistical analysis and visualization were handled by scripting with R, Shell, Perl or Python languages. These scripts were placed in "Scripts" directory.
+Some processing steps in the pipeline, statistical analysis and visualization were handled by scripting with R, Shell, Perl or Python languages. These scripts were placed in "[Scripts](https://github.com/zhouyunyan/PIGC/tree/master/Scripts)" directory. All related input data for statistical analysis and visualization are in ["Pre-processed_Files"](https://github.com/zhouyunyan/PIGC/tree/master/Pre-processed_Files) directory.
+
+
+```python
+
+```
