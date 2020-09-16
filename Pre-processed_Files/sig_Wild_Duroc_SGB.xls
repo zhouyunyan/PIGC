@@ -1,0 +1,41 @@
+SGB_cluster	Duroc-JY  vs. Wild	Duroc-SH  vs. Wild	GT_taxa
+MAG_221	1011_1	Wild Boar	Wild Boar	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli
+MAG_287	1011_1	Wild Boar	Wild Boar	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli_D
+MAG_368	1011_1	Wild Boar	Wild Boar	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli
+MAG_467	1011_1	Wild Boar	Wild Boar	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli_D
+MAG_2592	1011_1	Duroc-JY	Duroc-SH	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia flexneri
+MAG_3229	1031_1	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Anaerovoracaceae;g__UBA1191;s__
+MAG_5346	1031_1	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Anaerovoracaceae;g__UBA1191;s__
+MAG_5530	1031_1	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Anaerovoracaceae;g__UBA1191;s__
+MAG_5574	1031_1	Wild Boar	Wild Boar	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Peptostreptococcales;f__Anaerovoracaceae;g__UBA1191;s__
+MAG_249	1502_1	Wild Boar	Wild Boar	d__Archaea;p__Thermoplasmatota;c__Thermoplasmata;o__Methanomassiliicoccales;f__Methanomethylophilaceae;g__ISO4-G1;s__
+MAG_307	1502_1	Wild Boar	Wild Boar	d__Archaea;p__Thermoplasmatota;c__Thermoplasmata;o__Methanomassiliicoccales;f__Methanomethylophilaceae;g__ISO4-G1;s__
+MAG_408	1502_1	Wild Boar	Wild Boar	d__Archaea;p__Thermoplasmatota;c__Thermoplasmata;o__Methanomassiliicoccales;f__Methanomethylophilaceae;g__ISO4-G1;s__
+MAG_434	1502_1	Wild Boar	Wild Boar	d__Archaea;p__Thermoplasmatota;c__Thermoplasmata;o__Methanomassiliicoccales;f__Methanomethylophilaceae;g__ISO4-G1;s__
+MAG_780	1502_1	Duroc-JY	Duroc-SH	d__Archaea;p__Thermoplasmatota;c__Thermoplasmata;o__Methanomassiliicoccales;f__Methanomethylophilaceae;g__ISO4-G1;s__
+MAG_2440	1502_1	Duroc-JY	Duroc-SH	d__Archaea;p__Thermoplasmatota;c__Thermoplasmata;o__Methanomassiliicoccales;f__Methanomethylophilaceae;g__;s__
+MAG_220	1677_1	Wild Boar	Wild Boar	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__;s__
+MAG_5467	1677_1	Duroc-JY	Duroc-SH	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__UBA7173;s__
+MAG_3743	2419_1	Wild Boar	Wild Boar	d__Bacteria;p__Patescibacteria;c__Saccharimonadia;o__Saccharimonadales;f__Saccharimonadaceae;g__TM7x;s__
+MAG_3899	2419_1	Duroc-JY	Duroc-SH	d__Bacteria;p__Patescibacteria;c__Saccharimonadia;o__Saccharimonadales;f__Saccharimonadaceae;g__TM7x;s__
+MAG_1774	718_1	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__UBA644;g__UBA644;s__UBA644 sp002299265
+MAG_3192	718_1	Wild Boar	Wild Boar	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__UBA644;g__UBA644;s__UBA644 sp002299265
+MAG_4153	718_1	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__UBA644;g__UBA644;s__UBA644 sp002299265
+MAG_5747	718_1	Wild Boar	Wild Boar	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__UBA644;g__UBA644;s__UBA644 sp002299265
+MAG_1450	922_1	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Ruminococcus_E;s__
+MAG_1565	922_1	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Ruminococcus_E;s__
+MAG_2090	922_1	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Ruminococcus_E;s__
+MAG_2745	922_1	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Ruminococcus_E;s__
+MAG_3688	922_1	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Ruminococcus_E;s__
+MAG_4177	922_1	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Ruminococcus_E;s__
+MAG_6065	922_1	Wild Boar	Wild Boar	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Ruminococcus_E;s__
+MAG_1524	933_2	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Eubacterium_R;s__
+MAG_1540	933_2	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Eubacterium_R;s__
+MAG_2375	933_2	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Eubacterium_R;s__
+MAG_3198	933_2	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Eubacterium_R;s__
+MAG_3370	933_2	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Eubacterium_R;s__
+MAG_3388	933_2	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Eubacterium_R;s__
+MAG_5741	933_2	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Eubacterium_R;s__
+MAG_5792	933_2	Wild Boar	Wild Boar	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Eubacterium_R;s__
+MAG_2602	979_1	Duroc-JY	Duroc-SH	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__;s__
+MAG_3414	979_1	Wild Boar	Wild Boar	d__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__;s__
