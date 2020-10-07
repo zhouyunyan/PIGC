@@ -1,6 +1,6 @@
 # The construction of reference gene catalog and metagenome-assembled genomes of pig gut microbiome.
 
-This directory contains scripts related to the manuscript "A landscape deep metagenome survey of swine gut microbiome spanning age, geography, domestication and gut locations reveals an extensive number of microbial genes and assembled genomes". 
+This directory contains scripts related to the manuscript "Enhanced catalogs of microbial genes and metagenome-assembled genomes from the pig gut microbiome". 
 
 Before running, you must ensure that all required softwares and databases are installed successfully. 
 
