@@ -22,9 +22,9 @@ for (i in 7:length(merge.list)) {
 final.list <- merge.list[-num]
 
 library(UpSetR)
-p <- upset(data, nsets = 6, mb.ratio = c(0.5, 0.5),
-           order.by = c("freq", "degree"), decreasing = c(TRUE,FALSE),intersections=merge.list[1:21])
+p <- upset(data, nsets = 6, mb.ratio = c(0.6, 0.4),
+           order.by = c("freq", "degree"), decreasing = c(TRUE,FALSE),intersections=merge.list[c(1:7,9,10,12,13,15,21,23,34,42,29,63)])
 
-tiff(filename = "group_Diff_upset.tif",width = 4800,height = 4000,res=600,compression="lzw")
+tiff(filename = "group_Diff_upset.tif",width = 4500,height = 3300,res=600,compression="lzw")
 p
 dev.off()
