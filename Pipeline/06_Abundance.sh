@@ -41,5 +41,5 @@ cd ../../
 echo "Job finished at:" `date`
 
 ###function abundance were performed with R scripts 
-#KEGG Orthology (KO), eggNOG Orthology, CAZyme family, Antibiotic Resistance Ontology (ARO), and Virulence Factors (VF) were calculatedby adding the abundances of all its members falling within each category.
+#The abundance of KEGG Orthology (KO), eggNOG Orthology, CAZyme family, Antibiotic Resistance Ontology (ARO), and Virulence Factors (VF) were calculated by adding the abundances of all its members falling within each category.
 
