@@ -16,7 +16,7 @@ prodigal=~/bin/prodigal
 cdhit=~/bin/cdhit
 
 cd ${GeneCatalog}
-mkdir 01_before_cdhit 02_cdhit_cluster 03_Gene_abundance
+mkdir 01_before_cdhit 02_cdhit_cluster
 
 ###gene prediction
 cd 01_before_cdhit
