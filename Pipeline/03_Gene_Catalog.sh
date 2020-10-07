@@ -36,7 +36,7 @@ cat ${PGC}/filter.287sample_7.7M.GeneSet.pep.faa ${GeneCatalog}/01_before_cdhit/
 
 faa=${GeneCatalog}/01_before_cdhit/sample500_BGI287_complete_protein.faa
 cd ${GeneCatalog}/02_cdhit_cluster/
-###dereplication at protein level (identidy:100%-90%-50%)
+###dereplication at protein level (identity:100%-90%-50%)
 $cdhit -i ${faa} -o total.protein.faa.100 -c 1.00 -n 5 -M 80000 -d 0 -T 16 && \
      cd-hit -i total.protein.faa.100 -o total.protein.faa.90 -c 0.90 -s 0.8 -n 5 -M 80000 -g 1 -d 0 -T 16 && \
      cd-hit -i total.protein.faa.90 -o total.protein.faa.50 -c 0.5 -s 0.8 -n 3 -M 80000 -g 1 -d 0 -T 16        
