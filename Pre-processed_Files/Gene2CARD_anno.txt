@@ -1,0 +1,917 @@
+ORF_ID	Best_Hit_ARO	ARO	Model_type	Drug Class	Resistance Mechanism	AMR Gene Family
+BGI_PIG_111_GL0131122	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BGI_PIG_118_GL0278219	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+BGI_PIG_118_GL0278221	vanTG	3002972	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanT
+BGI_PIG_121_GL0099009	vanUG	3004253	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanU
+BGI_PIG_140_GL0103343	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BGI_PIG_147_GL0006025	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BGI_PIG_148_GL0105380	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_PIG_151_GL0156308	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BGI_PIG_163_GL0079822	vanXYG	3003069	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanXY
+BGI_PIG_181_GL0221543	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_PIG_183_GL0303628	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BGI_PIG_195_GL0068054	Bifidobacterium adolescentis rpoB mutants conferring resistance to rifampicin	3004480	protein homolog model	rifamycin antibiotic	antibiotic target alteration; antibiotic target replacement	rifamycin-resistant beta-subunit of RNA polymerase (rpoB)
+BGI_PIG_196_GL0157335	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BGI_PIG_210_GL0198205	ErmF	3000498	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+BGI_PIG-001_GL0107595	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_PIG-002_GL0078217	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+BGI_PIG-002_GL0078693	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_PIG-002_GL0133791	ErmB	3000375	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+BGI_PIG-002_GL0139615	Chlamydia trachomatis intrinsic murA conferring resistance to fosfomycin	3003785	protein homolog model	fosfomycin	antibiotic target alteration	antibiotic-resistant murA transferase
+BGI_PIG-003_GL0089702	aad(6)	3002628	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(6)
+BGI_PIG-003_GL0200363	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BGI_PIG-004_GL0097506	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_PIG-005_GL0195678	vanRG	3002926	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanR
+BGI_PIG-005_GL0195682	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+BGI_PIG-005_GL0195683	vanXYG	3003069	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanXY
+BGI_PIG-007_GL0185658	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_PIG-009_GL0015375	dfrA14	3002859	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+BGI_PIG-011_GL0084859	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_PIG-012_GL0231982	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_PIG-014_GL0124109	ErmG	3000522	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+BGI_PIG-014_GL0133498	vatE	3002844	protein homolog model	streptogramin antibiotic	antibiotic inactivation	streptogramin vat acetyltransferase
+BGI_PIG-015_GL0219409	Campylobacter coli chloramphenicol acetyltransferase	3004454	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+BGI_PIG-016_GL0062758	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+BGI_PIG-016_GL0083864	vanRG	3002926	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanR
+BGI_PIG-017_GL0164369	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_PIG-023_GL0030530	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_PIG-023_GL0125274	tet(C)	3000167	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_PIG-023_GL0236046	catS	3002688	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+BGI_PIG-031_GL0083707	apmA	3003918	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	amp acetyltransferase
+BGI_PIG-033_GL0159117	tet(W/N/W)	3004442	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+BGI_PIG-033_GL0203116	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+BGI_PIG-043_GL0012741	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BGI_PIG-044_GL0047820	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_PIG-044_GL0181188	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_PIG-047_GL0154358	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_PIG-048_GL0064449	lnuC	3002837	protein homolog model	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+BGI_PIG-049_GL0034434	tetO	3000190	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+BGI_PIG-058_GL0113373	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+BGI_PIG-058_GL0180528	vanWG	3002965	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	vanW; glycopeptide resistance gene cluster
+BGI_PIG-059_GL0180112	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BGI_PIG-071_GL0128208	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_PIG-078_GL0207938	tetX	3000205	protein homolog model	glycylcycline; tetracycline antibiotic	antibiotic inactivation	tetracycline inactivation enzyme
+BGI_PIG-079_GL0202056	tet(40)	3000567	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_PIG-087_GL0030530	tetM	3000186	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+BGI_PIG-093_GL0134402	tet(W/N/W)	3004442	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+BGI_PIG-094_GL0071201	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_PIG-098_GL0036286	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_PIG-098_GL0171858	aad(6)	3002628	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(6)
+BGI_PIG-101_GL0111213	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BGI_PIG-107_GL0048159	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_PIG-109_GL0021421	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+BGI_BHZ-10B_GL0027692	ErmQ	3000593	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+BGI_BHZ-10B_GL0041022	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BGI_BHZ-10B_GL0076958	catP	3002686	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+BGI_BHZ-10B_GL0081892	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BGI_BHZ-10B_GL0125088	Vibrio anguillarum chloramphenicol acetyltransferase	3004460	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+BGI_BHZ-10B_GL0127405	fexA	3002704	protein homolog model	phenicol antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_BHZ-10B_GL0136290	tetB(P)	3000195	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+BGI_BHZ-10B_GL0168606	rmtF	3002666	protein homolog model	aminoglycoside antibiotic	antibiotic target alteration	16S rRNA methyltransferase (G1405)
+BGI_BHZ-10B_GL0190771	lsaE	3003206	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BGI_BHZ-10B_GL0190801	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BGI_BHZ-10B_GL0195926	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BGI_BHZ-10B_GL0224346	optrA	3003746	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BGI_BHZ-11B_GL0000546	H-NS	3000676	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; cephamycin; penam; tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_BHZ-11B_GL0017426	AcrE	3000499	protein homolog model	fluoroquinolone antibiotic; cephalosporin; cephamycin; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_BHZ-11B_GL0017427	AcrS	3000656	protein homolog model	fluoroquinolone antibiotic; cephalosporin; glycylcycline; cephamycin; penam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; triclosan	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_BHZ-11B_GL0058291	mdtF	3000796	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_BHZ-11B_GL0058292	mdtE	3000795	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_BHZ-11B_GL0070179	TolC	3000237	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; glycylcycline; cephamycin; penam; tetracycline antibiotic; peptide antibiotic; aminocoumarin antibiotic; rifamycin antibiotic; phenicol antibiotic; triclosan; penem	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_BHZ-11B_GL0070199	bacA	3002986	protein homolog model	peptide antibiotic	antibiotic target alteration	undecaprenyl pyrophosphate related proteins
+BGI_BHZ-11B_GL0075949	eptA	3003576	protein homolog model	peptide antibiotic	antibiotic target alteration	pmr phosphoethanolamine transferase
+BGI_BHZ-11B_GL0075975	mdtN	3003548	protein homolog model	nucleoside antibiotic; acridine dye	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_BHZ-11B_GL0075976	mdtO	3003549	protein homolog model	nucleoside antibiotic; acridine dye	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_BHZ-11B_GL0075977	mdtP	3003550	protein homolog model	nucleoside antibiotic; acridine dye	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_BHZ-11B_GL0079103	cpxA	3000830	protein homolog model	aminoglycoside antibiotic; aminocoumarin antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_BHZ-11B_GL0094883	YojI	3003952	protein homolog model	peptide antibiotic	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+BGI_BHZ-11B_GL0099534	OXA-61	3001773	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+BGI_BHZ-11B_GL0104484	baeR	3000828	protein homolog model	aminoglycoside antibiotic; aminocoumarin antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_BHZ-11B_GL0112882	mdtG	3001329	protein homolog model	fosfomycin	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_BHZ-11B_GL0148309	kdpE	3003841	protein homolog model	aminoglycoside antibiotic	antibiotic efflux	kdpDE
+BGI_BHZ-11B_GL0162811	msbA	3003950	protein homolog model	nitroimidazole antibiotic	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+BGI_BHZ-11B_GL0168423	evgS	3000833	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; penam; tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_BHZ-11B_GL0168424	evgA	3000832	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; penam; tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_BHZ-11B_GL0168425	emrK	3000206	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_BHZ-11B_GL0168585	Escherichia coli acrA	3004043	protein homolog model	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; triclosan	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_BHZ-11B_GL0168586	acrB	3000216	protein homolog model	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; triclosan	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_BHZ-11B_GL0168675	Escherichia coli ampH beta-lactamase	3004612	protein homolog model	cephalosporin; penam	antibiotic inactivation	ampC-type beta-lactamase
+BGI_BHZ-11B_GL0194137	ugd	3003577	protein homolog model	peptide antibiotic	antibiotic target alteration	pmr phosphoethanolamine transferase
+BGI_BHZ-11B_GL0195687	acrD	3000491	protein homolog model	aminoglycoside antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_BHZ-11B_GL0234583	emrA	3000027	protein homolog model	fluoroquinolone antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_BHZ-11B_GL0234584	emrR	3000516	protein homolog model	fluoroquinolone antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_BHZ-11B_GL0254501	Klebsiella pneumoniae KpnF	3004583	protein homolog model	macrolide antibiotic; aminoglycoside antibiotic; cephalosporin; tetracycline antibiotic; peptide antibiotic; rifamycin antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_BHZ-11B_GL0254502	Klebsiella pneumoniae KpnE	3004580	protein homolog model	macrolide antibiotic; aminoglycoside antibiotic; cephalosporin; tetracycline antibiotic; peptide antibiotic; rifamycin antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_BHZ-1B_GL0120076	tet(W/N/W)	3004442	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+BGI_BHZ-1B_GL0127126	tet(45)	3003196	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_BHZ-1B_GL0158290	ANT(6)-Ib	3002629	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(6)
+BGI_BHZ-2B_GL0001468	mdtB	3000793	protein homolog model	aminocoumarin antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_BHZ-2B_GL0068597	ErmF	3000498	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+BGI_BHZ-2B_GL0139168	ANT(6)-Ia	3002626	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(6)
+BGI_BMZ-11B_GL0025434	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_BMZ-11B_GL0040683	APH(3')-IIIa	3002647	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(3')
+BGI_BMZ-11B_GL0072685	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_BMZ-16B_GL0178060	Streptococcus suis chloramphenicol acetyltransferase	3004455	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+BGI_BMZ-17B_GL0149331	tetA(P)	3000180	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_BMZ-2B_GL0004227	EreD	3004608	protein homolog model	macrolide antibiotic	antibiotic inactivation	macrolide esterase
+BGI_BMZ-3B_GL0013616	tet(44)	3000556	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+BGI_BMZ-4B_GL0084784	ANT(6)-Ia	3002626	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(6)
+BGI_DB-11B_GL0064789	sul3	3000413	protein homolog model	sulfonamide antibiotic	antibiotic target replacement	sulfonamide resistant sul
+BGI_DB-511B_GL0049853	cmx	3002703	protein homolog model	phenicol antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_DB-512B_GL0087549	cmlA5	3002695	protein homolog model	phenicol antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_DB-512B_GL0100242	tetB(P)	3000195	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+BGI_DB-512B_GL0157889	dfrA12	3002858	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+BGI_DB-512B_GL0201628	qacH	3003836	protein homolog model	fluoroquinolone antibiotic	antibiotic efflux	small multidrug resistance (SMR) antibiotic efflux pump
+BGI_DB-517B_GL0136874	sul1	3000410	protein homolog model	sulfonamide antibiotic	antibiotic target replacement	sulfonamide resistant sul
+BGI_DB-529B_GL0092649	tet(B)	3000166	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_DB-529B_GL0154215	QnrS1	3002790	protein homolog model	fluoroquinolone antibiotic	antibiotic target protection	quinolone resistance protein (qnr)
+BGI_DB-529B_GL0179587	Erm(47)	3003908	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+BGI_DB-529B_GL0229398	tetT	3000193	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+BGI_EYZ-183B_GL0099942	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+BGI_EYZ-353B_GL0237175	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_EYZ-362B_GL0152612	catS	3002688	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+BGI_EYZ-611B_GL0025750	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BGI_EYZ-652B_GL0124174	tet(33)	3000478	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_EYZ-652B_GL0169725	cfrA	3003441	protein homolog model	lincosamide antibiotic; streptogramin antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target alteration	Cfr 23S ribosomal RNA methyltransferase
+BGI_EYZ-652B_GL0242096	AAC(6')-Im	3004629	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+BGI_ZXZ-1B_GL0094729	Vibrio anguillarum chloramphenicol acetyltransferase	3004460	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+BGI_ZXZ-1B_GL0150103	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+C4936_4777_1	msrA	3000251	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+C4936_6399_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+C4936_7345_2	tetS	3000192	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+C4936_30800_3	mphB	3000318	protein homolog model	macrolide antibiotic	antibiotic inactivation	macrolide phosphotransferase (MPH)
+C4936_55470_4	gadX	3000508	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+C4936_57063_13	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+C4936_59829_6	Escherichia coli ampC1 beta-lactamase	3004611	protein homolog model	cephalosporin; penam	antibiotic inactivation	ampC-type beta-lactamase
+C4936_64306_1	vgaC	3002831	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+C4936_71450_1	catB3	3002676	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+C4936_82788_2	vgaE	3002833	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+C4936_85562_1	ACI-1	3004359	protein homolog model	cephalosporin; penam; penem	antibiotic inactivation	ACI beta-lactamase
+C4936_87539_2	dfrA6 from Proteus mirabilis	3004644	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+C4936_87766_7	RbpA	3000245	protein homolog model	rifamycin antibiotic	antibiotic target protection	RbpA bacterial RNA polymerase-binding protein
+C4974_130352_3	mphC	3000319	protein homolog model	macrolide antibiotic	antibiotic inactivation	macrolide phosphotransferase (MPH)
+C4974_137822_6	clcD	3004599	protein homolog model	lincosamide antibiotic; streptogramin antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target alteration	Cfr 23S ribosomal RNA methyltransferase
+C4974_151877_3	APH(4)-Ia	3002655	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(4)
+C4974_167705_1	catB8	3002680	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+C4974_168469_1	AAC(6')-IIa	3002594	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+C4974_168892_3	PC1 beta-lactamase (blaZ)	3000621	protein homolog model	penam	antibiotic inactivation	blaZ beta-lactamase
+C4974_174238_2	FusF	3004663	protein homolog model	fusidic acid	antibiotic inactivation	fusidic acid inactivation enzyme
+C4974_179554_1	Staphylococcus intermedius chloramphenicol acetyltransferase	3004457	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+C4974_187242_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+C4974_187242_3	oqxA	3003922	protein homolog model	fluoroquinolone antibiotic; glycylcycline; tetracycline antibiotic; diaminopyrimidine antibiotic; nitrofuran antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+C4974_193126_3	vga(E) Staphylococcus cohnii	3004715	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+C4974_202478_1	dfrA16	3003014	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+C4974_207073_2	APH(6)-Id	3002660	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(6)
+C4936_108258_2	msrE	3003109	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+C4936_122960_1	cfrC	3004146	protein homolog model	phenicol antibiotic	antibiotic target alteration	Cfr 23S ribosomal RNA methyltransferase
+C4936_154808_3	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+C4936_157715_1	LnuP	3004601	protein homolog model	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+C4936_179293_2	baeS	3000829	protein homolog model	aminoglycoside antibiotic; aminocoumarin antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+C4936_181311_1	APH(2'')-IIIa	3002636	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+C4936_188645_1	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+C4936_189402_1	vgbA	3001307	protein homolog model	streptogramin antibiotic	antibiotic inactivation	streptogramin vgb lyase
+C4936_189402_2	vatA	3002840	protein homolog model	streptogramin antibiotic	antibiotic inactivation	streptogramin vat acetyltransferase
+C4936_215510_7	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+C4936_232219_1	APH(3')-VIa	3002652	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(3')
+C4936_292882_7	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+C4936_294147_1	tet(K)	3000178	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+C4936_305197_3	lnuE	3003762	protein homolog model	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+C4936_317941_1	dfrA1	3002854	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+C4936_335332_2	aad(6)	3002628	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(6)
+C4936_382448_1	Mef(En2)	3004659	protein homolog model	macrolide antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+C4936_385146_1	dfrK	3002869	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+C4936_389306_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+C4936_404462_3	mphA	3000316	protein homolog model	macrolide antibiotic	antibiotic inactivation	macrolide phosphotransferase (MPH)
+C4950_6396_19	Escherichia coli emrE	3004039	protein homolog model	macrolide antibiotic	antibiotic efflux	small multidrug resistance (SMR) antibiotic efflux pump
+C4950_50652_2	tet(Z)	3000183	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+C4950_58272_1	tet(A)	3000165	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+C4950_69350_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+C4950_85673_2	mdtA	3000792	protein homolog model	aminocoumarin antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+C4950_106509_1	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+C4950_156726_1	APH(2'')-If	3004191	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+C4950_192673_1	CTX-M-14	3001877	protein homolog model	cephalosporin	antibiotic inactivation	CTX-M beta-lactamase
+C4950_221606_2	FosA3	3002872	protein homolog model	fosfomycin	antibiotic inactivation	fosfomycin thiol transferase
+C4974_11020_6	mphF	3003071	protein homolog model	macrolide antibiotic	antibiotic inactivation	macrolide phosphotransferase (MPH)
+C4974_35503_3	erm(45)	3004595	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+C4974_35774_4	mef(B)	3003107	protein homolog model	macrolide antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+C4974_52786_8	Acinetobacter baumannii AbaQ	3004574	protein homolog model	fluoroquinolone antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+C4974_53776_2	SAT-4	3002897	protein homolog model	nucleoside antibiotic	antibiotic inactivation	streptothricin acetyltransferase (SAT)
+C4974_70470_2	mphE	3003741	protein homolog model	macrolide antibiotic	antibiotic inactivation	macrolide phosphotransferase (MPH)
+F4460_119778_2	aphA15	3004675	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(3')
+F4460_171646_2	Erm(42)	3003106	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+F4436_3919_4	CfxA6	3003097	protein homolog model	cephamycin	antibiotic inactivation	CfxA beta-lactamase
+F4436_10747_8	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4436_99332_7	tet(59)	3004441	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F4436_139984_1	CARB-8	3002247	protein homolog model	penam	antibiotic inactivation	CARB beta-lactamase
+F4436_261440_2	vanXYG	3003069	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanXY
+F4436_263629_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4436_403518_2	vanRG	3002926	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanR
+F4453_643_1	APH(3')-Ia	3002641	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(3')
+F4453_50694_1	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F4453_61165_1	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F4453_91029_3	ErmA	3000347	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+F4453_137756_2	mphG	3003742	protein homolog model	macrolide antibiotic	antibiotic inactivation	macrolide phosphotransferase (MPH)
+F4453_194330_2	AAC(6')-Ie-APH(2'')-Ia	3002597	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(2''); AAC(6')
+F4453_201269_2	dfrD	3002866	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+F4460_26141_4	vanXYG	3003069	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanXY
+F4460_80815_5	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5385_261946_2	lnuG	3004085	protein homolog model	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+F5393_286713_4	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5386_31899_1	aadS	3004683	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(6)
+F5393_7376_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5393_84332_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5393_125189_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5393_175761_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5393_328306_1	ErmX	3000596	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+F5403_6028_4	emrY	3000254	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5399_197358_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5399_324270_6	rmtF	3002666	protein homolog model	aminoglycoside antibiotic	antibiotic target alteration	16S rRNA methyltransferase (G1405)
+F5401_57779_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5403_118836_6	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5404_367039_11	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5403_476120_3	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5403_550466_12	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5404_225904_1	APH(6)-Id	3002660	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(6)
+F5404_343378_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5412_15563_9	AcrE	3000499	protein homolog model	fluoroquinolone antibiotic; cephalosporin; cephamycin; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5412_46932_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5412_303985_2	vanRG	3002926	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanR
+F5415_32297_3	tet(W/N/W)	3004442	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+F5415_89858_1	tet32	3000196	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+F5415_126537_3	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5415_189758_3	mdtO	3003549	protein homolog model	nucleoside antibiotic; acridine dye	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5415_282159_3	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5421_261071_3	ANT(3'')-IIa	3004089	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(3'')
+F5417_262331_4	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5419_12251_14	cepA	3003559	protein homolog model	cephalosporin	antibiotic inactivation	cepA beta-lactamase
+F5419_86633_21	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5419_103339_4	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5419_105769_24	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5419_261937_7	ErmA	3000347	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+F5419_300520_2	catA8	3004658	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+F5421_32998_3	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5421_94321_13	AAC(6')-Iid	3002589	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+F5421_139431_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5421_159280_2	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+F5421_196259_1	tet(45)	3003196	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5422_3541_26	lsaA	3000300	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5422_24198_1	efrB	3003949	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; rifamycin antibiotic	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+F5422_24198_2	efrA	3003948	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; rifamycin antibiotic	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+F5422_47649_3	dfrE	3002875	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+F5422_60646_2	CARB-10	3002249	protein homolog model	penam	antibiotic inactivation	CARB beta-lactamase
+F5422_127753_1	FosB3	3002873	protein homolog model	fosfomycin	antibiotic inactivation	fosfomycin thiol transferase
+F5422_148454_5	tet(D)	3000168	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5422_289819_6	emeA	3003551	protein homolog model	acridine dye	antibiotic efflux	multidrug and toxic compound extrusion (MATE) transporter
+F5429_140123_36	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5432_431019_2	APH(3'')-Ib	3002639	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(3'')
+F5444_291876_4	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5440_36733_1	sul2	3000412	protein homolog model	sulfonamide antibiotic	antibiotic target replacement	sulfonamide resistant sul
+F5440_369679_2	tet(33)	3000478	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5440_406541_6	MCR-1.1	3003689	protein homolog model	peptide antibiotic	antibiotic target alteration	MCR phosphoethanolamine transferase
+F5444_107504_1	emrY	3000254	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5444_108224_2	TolC	3000237	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; glycylcycline; cephamycin; penam; tetracycline antibiotic; peptide antibiotic; aminocoumarin antibiotic; rifamycin antibiotic; phenicol antibiotic; triclosan; penem	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5446_141485_1	AAC(6')-Im	3004629	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+F5446_270401_1	lsaB	3003111	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5446_355343_3	ANT(3'')-IIc	3004091	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(3'')
+F5447_261105_1	AcrF	3000502	protein homolog model	fluoroquinolone antibiotic; cephalosporin; cephamycin; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5447_286262_4	acrD	3000491	protein homolog model	aminoglycoside antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5449_45125_1	TEM-116	3000979	protein homolog model	monobactam; cephalosporin; penam; penem	antibiotic inactivation	TEM beta-lactamase
+F5449_45125_2	APH(3')-IIa	3002644	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(3')
+F5455_16398_3	Escherichia coli ampH beta-lactamase	3004612	protein homolog model	cephalosporin; penam	antibiotic inactivation	ampC-type beta-lactamase
+F5455_25292_2	PmrF	3003578	protein homolog model	peptide antibiotic	antibiotic target alteration	pmr phosphoethanolamine transferase
+F5455_66314_5	marA	3000263	protein homolog model	fluoroquinolone antibiotic; monobactam; carbapenem; cephalosporin; glycylcycline; cephamycin; penam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; triclosan; penem	antibiotic efflux; reduced permeability to antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams
+F5449_513304_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5453_207461_6	APH(2'')-Ig	3002669	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+F4554_186864_2	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+F4554_242227_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F4460_287271_1	catB11	3004660	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+F4460_399607_5	SAT-2	3002895	protein homolog model	nucleoside antibiotic	antibiotic inactivation	streptothricin acetyltransferase (SAT)
+F4552_176436_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5455_230778_15	Escherichia coli mdfA	3001328	protein homolog model	tetracycline antibiotic; benzalkonium chloride; rhodamine	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5457_299834_1	eptA	3003576	protein homolog model	peptide antibiotic	antibiotic target alteration	pmr phosphoethanolamine transferase
+F5472_72848_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5476_214929_8	patB	3000025	protein homolog model	fluoroquinolone antibiotic	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+F5478_169903_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5478_359794_1	APH(2'')-If	3004191	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+F5485_130415_2	APH(3'')-Ib	3002639	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(3'')
+F5485_171428_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5486_76141_11	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5487_126071_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5487_186291_1	dfrF	3002867	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+F5487_211204_29	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5498_77708_1	mdtG	3001329	protein homolog model	fosfomycin	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5500_85045_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5500_181249_30	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5509_104888_2	Escherichia coli ampH beta-lactamase	3004612	protein homolog model	cephalosporin; penam	antibiotic inactivation	ampC-type beta-lactamase
+F5502_90945_1	FosA7	3004113	protein homolog model	fosfomycin	antibiotic inactivation	fosfomycin thiol transferase
+F5505_342874_1	AAC(6')-Ie-APH(2'')-Ia	3002597	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(2''); AAC(6')
+F5510_29487_5	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5510_30472_2	efmA	3003954	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5510_49505_1	apmA	3003918	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	amp acetyltransferase
+F5510_135526_1	spd	3002631	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(9)
+F5510_142991_1	vatH	3002845	protein homolog model	streptogramin antibiotic	antibiotic inactivation	streptogramin vat acetyltransferase
+F5510_292958_1	AAC(6')-Ii	3002556	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+F5511_4978_2	aadA8	3002608	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(3'')
+F5512_104206_4	AAC(6')-Im	3004629	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+F5520_127210_1	Mef(En2)	3004659	protein homolog model	macrolide antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5520_198939_2	AcrF	3000502	protein homolog model	fluoroquinolone antibiotic; cephalosporin; cephamycin; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5525_48187_1	lnuA	3002835	protein homolog model	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+F5525_133657_2	TEM-185	3001374	protein homolog model	monobactam; cephalosporin; penam; penem	antibiotic inactivation	TEM beta-lactamase
+F4554_292429_1	AAC(6')-Ib10	3002581	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+F4554_298029_3	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+F4554_298669_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F4554_341695_1	dfrG	3002868	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+F4560_219370_2	OXA-363	3001550	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+F4554_407830_1	ANT(4')-Ib	3003905	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(4')
+F4554_418991_4	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4554_433723_4	tet(D)	3000168	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F4560_47860_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5533_292909_3	vgbA	3001307	protein homolog model	streptogramin antibiotic	antibiotic inactivation	streptogramin vgb lyase
+F5560_266129_1	aadS	3004683	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(6)
+F5569_263647_1	mdtM	3001214	protein homolog model	fluoroquinolone antibiotic; lincosamide antibiotic; nucleoside antibiotic; acridine dye; phenicol antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5570_342092_11	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5572_30580_8	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+F5572_60593_4	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5572_60894_5	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5572_65423_3	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+F5572_300597_2	AcrS	3000656	protein homolog model	fluoroquinolone antibiotic; cephalosporin; glycylcycline; cephamycin; penam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; triclosan	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5572_312046_1	catI	3002683	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+F5574_285818_2	Mef(En2)	3004659	protein homolog model	macrolide antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5602_7821_4	APH(3')-Ib	3002642	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(3')
+F5602_33595_1	sul4	3004361	protein homolog model	sulfonamide antibiotic	antibiotic target replacement	sulfonamide resistant sul
+F5602_45809_1	OXA-50	3001796	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+F5602_54635_3	APH(6)-Ic	3002659	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(6)
+F5602_61117_1	APH(3')-IX	3004087	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(3')
+F5589_29931_4	AcrF	3000502	protein homolog model	fluoroquinolone antibiotic; cephalosporin; cephamycin; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5589_370736_5	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5594_34062_6	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5602_100693_2	tet(D)	3000168	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5602_102270_2	dfrA20	3003016	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+F5602_110526_2	Campylobacter coli chloramphenicol acetyltransferase	3004454	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+F5602_156163_1	tet(D)	3000168	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5602_164122_1	tet(D)	3000168	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5612_277897_4	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5610_54496_12	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5610_325329_2	OXA-21	3001416	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+F5612_147575_171	vanC	3000368	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+F5612_147575_172	vanXYC	3002966	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanXY
+F5612_147575_173	vanTC	3002970	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanT
+F5612_147575_174	vanRC	3002922	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanR
+F5612_147575_175	vanSC	3002933	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	vanS; glycopeptide resistance gene cluster
+F5622_46635_1	aadA24	3002621	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(3'')
+F5617_200272_2	mef(B)	3003107	protein homolog model	macrolide antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5619_171412_2	ErmB	3000375	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+F5622_95470_2	ugd	3003577	protein homolog model	peptide antibiotic	antibiotic target alteration	pmr phosphoethanolamine transferase
+F5622_95470_3	ugd	3003577	protein homolog model	peptide antibiotic	antibiotic target alteration	pmr phosphoethanolamine transferase
+F5633_93149_1	tet(W/N/W)	3004442	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+F5633_119847_5	emrB	3000074	protein homolog model	fluoroquinolone antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5622_183101_1	arr-3	3002848	protein homolog model	rifamycin antibiotic	antibiotic inactivation	rifampin ADP-ribosyltransferase (Arr)
+F5635_88464_2	lnuA	3002835	protein homolog model	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+F5634_90403_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5634_601474_2	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+F5635_31478_56	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5640_96499_1	tet(44)	3000556	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+F5641_29624_4	tet(B)	3000166	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F4563_99289_18	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4563_148012_11	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F4563_246936_6	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+F4563_246936_7	vanXYG	3003069	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanXY
+F4580_104165_2	mdtC	3000794	protein homolog model	aminocoumarin antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4580_228608_2	mdtE	3000795	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+I4930_27387_2	Erm(36)	3000605	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+F5642_74982_1	Erm(49)	3004626	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+I4930_111183_1	OXA-10	3001405	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+I5640_363932_3	tet(W/N/W)	3004442	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+I5640_370446_3	ErmT	3000595	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+I4930_194987_2	Enterococcus faecium chloramphenicol acetyltransferase	3004456	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+I4930_195502_2	emrA	3000027	protein homolog model	fluoroquinolone antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+I4930_196098_1	dfrB1	3002864	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+I4978_19526_2	emrB	3000074	protein homolog model	fluoroquinolone antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+I4978_96314_1	dfrA5	3002861	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+I4978_131384_3	ErmF	3000498	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+I4978_137826_1	aadA27	3004682	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(3'')
+I4978_177147_1	catB2	3002675	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+I4978_192977_2	tet(D)	3000168	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+I4978_232060_3	ANT(6)-Ia	3002626	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(6)
+I5021_28556_2	mphC	3000319	protein homolog model	macrolide antibiotic	antibiotic inactivation	macrolide phosphotransferase (MPH)
+I5021_49489_2	EreA	3000361	protein homolog model	macrolide antibiotic	antibiotic inactivation	macrolide esterase
+I5021_142911_8	ANT(9)-Ia	3002630	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(9)
+I5021_161479_17	tet(W/N/W)	3004442	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+I5021_182917_1	tet(45)	3003196	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+I5640_17813_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+I5640_169086_1	tet(D)	3000168	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+W4930_13619_5	tetQ	3000191	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+W4930_27741_4	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+W5021_113190_4	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+W5021_144421_2	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+W5021_196528_2	rmtF	3002666	protein homolog model	aminoglycoside antibiotic	antibiotic target alteration	16S rRNA methyltransferase (G1405)
+W5021_203009_4	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+W4930_57080_2	Erm(35)	3000604	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+W4930_99045_5	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+W4930_137637_2	npmA	3002665	protein homolog model	aminoglycoside antibiotic	antibiotic target alteration	16S rRNA methyltransferase (A1408)
+W4950_10281_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+W4950_75331_2	CMY-2	3002013	protein homolog model	cephalosporin; cephamycin	antibiotic inactivation	CMY beta-lactamase
+W4974_16217_2	mdtE	3000795	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+W4974_69796_1	emrY	3000254	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+W4978_43143_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+W4982_34048_2	YojI	3003952	protein homolog model	peptide antibiotic	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+W4982_51039_5	emrA	3000027	protein homolog model	fluoroquinolone antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+W4982_56607_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+W4982_68475_1	OXA-347	3001777	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+W5007_28008_1	catII from Escherichia coli K-12	3004656	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+W5021_3427_2	lnuC	3002837	protein homolog model	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+W5021_248988_9	tet(W/N/W)	3004442	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+allSample_unmapped_743696_8	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_800193_1	aadA16	3002616	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(3'')
+W5042_40985_3	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+W5042_69932_11	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_20707_15	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_21524_20	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_25286_83	ErmD	3000495	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+allSample_unmapped_235630_44	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_314921_4	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_332715_1	ErmF	3000498	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+allSample_unmapped_364501_3	OXA-280	3001735	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+allSample_unmapped_451287_4	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_473639_3	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_512973_2	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_820553_13	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_834266_8	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_839708_13	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_954151_1	AAC(6')-IIc	3002596	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+allSample_unmapped_1123627_4	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_1171350_5	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_1252629_1	SAT-4	3002897	protein homolog model	nucleoside antibiotic	antibiotic inactivation	streptothricin acetyltransferase (SAT)
+allSample_unmapped_1281537_32	bcrC	3003250	protein homolog model	peptide antibiotic	antibiotic target alteration	undecaprenyl pyrophosphate related proteins
+allSample_unmapped_1281537_33	bcrB	3002988	protein homolog model	peptide antibiotic	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+allSample_unmapped_1281537_34	bcrA	3002987	protein homolog model	peptide antibiotic	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+allSample_unmapped_1303583_36	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_1519045_1	FosD	3004674	protein homolog model	fosfomycin	antibiotic inactivation	fosfomycin thiol transferase
+allSample_unmapped_1532726_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_1539995_1	SAT-4	3002897	protein homolog model	nucleoside antibiotic	antibiotic inactivation	streptothricin acetyltransferase (SAT)
+allSample_unmapped_1615134_4	CblA-1	3002999	protein homolog model	cephalosporin	antibiotic inactivation	CblA beta-lactamase
+allSample_unmapped_1629414_1	lnuC	3002837	protein homolog model	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+allSample_unmapped_1853324_2	vgaD	3002832	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_1899261_1	QnrD1	3002788	protein homolog model	fluoroquinolone antibiotic	antibiotic target protection	quinolone resistance protein (qnr)
+allSample_unmapped_1908467_2	tet(D)	3000168	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+allSample_unmapped_1940837_2	APH(2'')-If	3004191	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+allSample_unmapped_1943217_3	tet(45)	3003196	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+allSample_unmapped_1951558_4	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_1957818_4	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_1992796_16	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_2001960_2	cfrC	3004146	protein homolog model	phenicol antibiotic	antibiotic target alteration	Cfr 23S ribosomal RNA methyltransferase
+allSample_unmapped_2028442_1	tetQ	3000191	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+allSample_unmapped_2102297_11	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_2169254_12	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_2212148_2	APH(3'')-Ib	3002639	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(3'')
+allSample_unmapped_2271975_1	APH(2'')-Ie	3002634	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+allSample_unmapped_2426953_5	rmtD	3002667	protein homolog model	aminoglycoside antibiotic	antibiotic target alteration	16S rRNA methyltransferase (G1405)
+allSample_unmapped_2443834_5	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_2568852_2	CTX-M-55	3001917	protein homolog model	cephalosporin	antibiotic inactivation	CTX-M beta-lactamase
+allSample_unmapped_2677222_5	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_2840534_3	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_2846545_2	Pseudomonas aeruginosa soxR	3004107	protein homolog model	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penam; tetracycline antibiotic; acridine dye; rifamycin antibiotic; phenicol antibiotic; triclosan	antibiotic target alteration; antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_2946305_4	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_2985769_39	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_3072854_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_3095724_28	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_3156510_7	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_3181531_15	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_3238368_1	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_3291665_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_3312752_4	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_3313580_1	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_3321626_20	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_3434754_7	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_3872224_1	Acinetobacter baumannii AbaQ	3004574	protein homolog model	fluoroquinolone antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+allSample_unmapped_3887461_4	APH(2'')-If	3004191	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+allSample_unmapped_4744368_3	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_3958771_6	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_3960188_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_4035454_4	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_4139780_3	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_4252117_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_4447087_20	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_4480695_2	tetW	3000194	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+allSample_unmapped_4538585_4	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_4639564_1	ANT(3'')-IIb	3004090	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(3'')
+allSample_unmapped_4678873_5	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_4701619_6	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_4823075_4	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_4825002_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_4865582_1	dfrB5	3004549	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+allSample_unmapped_4917741_24	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_4931197_2	ErmG	3000522	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+allSample_unmapped_5066453_7	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_5087055_7	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_5164545_1	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_5184532_4	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_5373461_17	fusD	3003731	protein homolog model	fusidic acid	antibiotic inactivation	fusidic acid inactivation enzyme
+allSample_unmapped_5440168_2	vanWB	3002964	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	vanW; glycopeptide resistance gene cluster
+allSample_unmapped_5642147_1	OXA-58	3001611	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+allSample_unmapped_5646770_4	tet(W/N/W)	3004442	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+allSample_unmapped_5647261_4	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_5713849_2	FosA6	3004111	protein homolog model	fosfomycin	antibiotic inactivation	fosfomycin thiol transferase
+allSample_unmapped_5847240_2	Klebsiella pneumoniae KpnF	3004583	protein homolog model	macrolide antibiotic; aminoglycoside antibiotic; cephalosporin; tetracycline antibiotic; peptide antibiotic; rifamycin antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+allSample_unmapped_5862694_5	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_5923807_5	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_5923990_5	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_5933549_1	OXA-11	3001406	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+allSample_unmapped_5985645_29	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_6009896_2	OXA-361	3001548	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+allSample_unmapped_6019800_5	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_6083157_3	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_6162365_2	QnrVC6	3002803	protein homolog model	fluoroquinolone antibiotic	antibiotic target protection	quinolone resistance protein (qnr)
+allSample_unmapped_6236476_3	Clostridium perfringens mprF	3003773	protein homolog model	peptide antibiotic	antibiotic target alteration	defensin resistant mprF
+allSample_unmapped_6252764_2	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_6358715_30	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_6375408_1	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_6376044_3	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_6390826_4	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_6416280_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_6490873_2	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_6561980_1	vanHB	3002943	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	vanH; glycopeptide resistance gene cluster
+allSample_unmapped_6561980_2	vanB	3000013	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_6561980_3	vanXB	3002950	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	vanX; glycopeptide resistance gene cluster
+allSample_unmapped_6595419_1	mphG	3003742	protein homolog model	macrolide antibiotic	antibiotic inactivation	macrolide phosphotransferase (MPH)
+allSample_unmapped_6595419_2	mefC	3003745	protein homolog model	macrolide antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F4592_162273_1	evgS	3000833	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; penam; tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_6871320_3	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_7793332_5	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_6953828_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_7004965_2	ErmY	3002825	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+allSample_unmapped_7110338_7	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_7163395_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_7310879_4	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_7338680_1	catIII	3002685	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+allSample_unmapped_7345646_1	patB	3000025	protein homolog model	fluoroquinolone antibiotic	antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump
+allSample_unmapped_7560832_2	OXA-2	3001397	protein homolog model	carbapenem; cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+allSample_unmapped_7888168_2	mecI	3000124	protein homolog model	penam	antibiotic target replacement	methicillin resistant PBP2
+allSample_unmapped_7888168_3	mecR1	3000215	protein homolog model	penam	antibiotic target replacement	methicillin resistant PBP2
+allSample_unmapped_7888168_4	mecA	3000617	protein homolog model	penam	antibiotic target replacement	methicillin resistant PBP2
+allSample_unmapped_7995956_4	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_8043638_11	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_8345664_3	Acinetobacter baumannii AbaQ	3004574	protein homolog model	fluoroquinolone antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+allSample_unmapped_8357880_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_8440242_1	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_8475324_1	vgaA	3002829	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_8702617_5	rmtG	3002668	protein homolog model	aminoglycoside antibiotic	antibiotic target alteration	16S rRNA methyltransferase (G1405)
+allSample_unmapped_8981829_1	catQ	3002687	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+allSample_unmapped_9003070_2	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+allSample_unmapped_9023110_6	APH(2'')-If	3004191	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+allSample_unmapped_9142587_1	linG	3002879	protein homolog model	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+allSample_unmapped_9505035_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_9578767_2	adeG	3000778	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_9684893_3	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_10772938_3	tet(D)	3000168	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+allSample_unmapped_9942281_11	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+allSample_unmapped_10044814_2	AAC(3)-IIc	3002535	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(3)
+allSample_unmapped_10051964_1	vanUG	3004253	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanU
+allSample_unmapped_10051964_2	vanRG	3002926	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanR
+allSample_unmapped_10051964_3	vanSG	3002937	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	vanS; glycopeptide resistance gene cluster
+allSample_unmapped_10051964_4	vanYG1	3002959	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	vanY; glycopeptide resistance gene cluster
+allSample_unmapped_10293718_3	lnuD	3002838	protein homolog model	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+allSample_unmapped_10324717_1	AAC(6')-Il	3004635	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+allSample_unmapped_10420331_2	LAP-2	3004826	protein homolog model	fluoroquinolone antibiotic; aminoglycoside antibiotic; tetracycline antibiotic; rifamycin antibiotic	antibiotic inactivation	LAP beta-lactamase
+allSample_unmapped_10521970_1	AAC(6')-IIc	3002596	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+S113504B_45779_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+S113504B_79401_1	ErmT	3000595	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+S113504B_134629_1	dfrA15	3003013	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+S114106B_168805_1	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+S118306B_211211_3	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+S120704B_211953_1	vanRB	3002921	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanR
+S127906A_210818_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+S127906A_214509_1	OXA-32	3001426	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+S127906A_323373_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+S127906A_478001_2	vanXYG	3003069	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanXY
+S127906B_333114_2	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+S127912A_4650_9	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+S127912A_62704_9	aadA2	3002602	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(3'')
+S127912A_117107_1	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+S127912A_311460_3	CcrA	3000578	protein homolog model	carbapenem	antibiotic inactivation	CcrA beta-lactamase
+S129704B_85002_1	mdtM	3001214	protein homolog model	fluoroquinolone antibiotic; lincosamide antibiotic; nucleoside antibiotic; acridine dye; phenicol antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F4595_450334_33	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+S133506B_334172_1	AAC(6')-Iih	3002590	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+S136810A_341137_3	OXA-1	3001396	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+S136810A_367881_2	APH(2'')-IIa	3002635	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+S136810A_405076_2	APH(3')-Ia	3002641	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(3')
+S142704A_474891_1	tet(W/N/W)	3004442	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+S191108A_30648_4	AAC(6')-Im	3004629	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+S21104B_381978_1	sul1	3000410	protein homolog model	sulfonamide antibiotic	antibiotic target replacement	sulfonamide resistant sul
+S21310A_20977_1	tetB(P)	3000195	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+S31914B_369532_2	mdtM	3001214	protein homolog model	fluoroquinolone antibiotic; lincosamide antibiotic; nucleoside antibiotic; acridine dye; phenicol antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+S29410A_146096_2	vanSB	3002932	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	vanS; glycopeptide resistance gene cluster
+S29410A_146096_3	vanYB	3002956	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	vanY; glycopeptide resistance gene cluster
+S31914B_180405_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+S41004A_58886_5	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+S38404A_256791_2	ugd	3003577	protein homolog model	peptide antibiotic	antibiotic target alteration	pmr phosphoethanolamine transferase
+S38404A_535648_2	evgS	3000833	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; penam; tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump
+S46608A_1390_1	tet32	3000196	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+S46608A_17196_8	mdtP	3003550	protein homolog model	nucleoside antibiotic; acridine dye	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+S41004B_11989_11	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+S41004B_56647_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+S41004B_68198_2	acrB	3000216	protein homolog model	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; triclosan	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+S46608B_389530_1	lnuC	3002837	protein homolog model	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+F4650_268212_2	tet32	3000196	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+S53008A_260246_2	OXA-85	3001780	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+S57008B_58571_3	AcrF	3000502	protein homolog model	fluoroquinolone antibiotic; cephalosporin; cephamycin; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+S60108A_25711_3	mdtO	3003549	protein homolog model	nucleoside antibiotic; acridine dye	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+S60108B_216626_1	ugd	3003577	protein homolog model	peptide antibiotic	antibiotic target alteration	pmr phosphoethanolamine transferase
+S60108B_390497_2	mdtC	3000794	protein homolog model	aminocoumarin antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+S64110B_94844_1	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+S63506A_39374_2	kdpE	3003841	protein homolog model	aminoglycoside antibiotic	antibiotic efflux	kdpDE
+S63506A_48094_62	cmeA	3000783	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; fusidic acid	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+S63506B_28828_1	cmlA1	3002693	protein homolog model	phenicol antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+S63506B_124705_1	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+S75706B_148913_3	Escherichia coli ampC1 beta-lactamase	3004611	protein homolog model	cephalosporin; penam	antibiotic inactivation	ampC-type beta-lactamase
+S77806A_7507_1	ugd	3003577	protein homolog model	peptide antibiotic	antibiotic target alteration	pmr phosphoethanolamine transferase
+S93310B_268741_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F4656_384056_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F4657_59958_2	ErmQ	3000593	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+S95008B_236769_2	tetM	3000186	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+S95012B_18552_4	mdtH	3001216	protein homolog model	fluoroquinolone antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BL_allSample_unmapped_152042_9	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+S95012B_279333_9	eptA	3003576	protein homolog model	peptide antibiotic	antibiotic target alteration	pmr phosphoethanolamine transferase
+BL_allSample_unmapped_612459_4	gadX	3000508	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BL_allSample_unmapped_745770_29	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BL_allSample_unmapped_973814_5	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BL_allSample_unmapped_1009220_2	vanXYG	3003069	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanXY
+BL_allSample_unmapped_1522150_4	Klebsiella pneumoniae KpnF	3004583	protein homolog model	macrolide antibiotic; aminoglycoside antibiotic; cephalosporin; tetracycline antibiotic; peptide antibiotic; rifamycin antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BL_allSample_unmapped_1522150_5	Klebsiella pneumoniae KpnE	3004580	protein homolog model	macrolide antibiotic; aminoglycoside antibiotic; cephalosporin; tetracycline antibiotic; peptide antibiotic; rifamycin antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BL_allSample_unmapped_1644761_4	SHV-11	3001070	protein homolog model	carbapenem; cephalosporin; penam	antibiotic inactivation	SHV beta-lactamase
+BL_allSample_unmapped_1737006_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BL_allSample_unmapped_1792370_1	EreA2	3002826	protein homolog model	macrolide antibiotic	antibiotic inactivation	macrolide esterase
+BL_allSample_unmapped_2095157_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BL_allSample_unmapped_2257276_3	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BL_allSample_unmapped_2794868_4	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BL_allSample_unmapped_2872627_5	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BL_allSample_unmapped_2969424_2	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+BL_allSample_unmapped_3961007_2	Escherichia coli ampH beta-lactamase	3004612	protein homolog model	cephalosporin; penam	antibiotic inactivation	ampC-type beta-lactamase
+BL_allSample_unmapped_4477099_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+BL_allSample_unmapped_5008551_7	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+FCR.HM5_scaffold116026_1_2170_2	tet(W/N/W)	3004442	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+High2_contig-117_9790_2	aadA	3002601	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(3'')
+High2_contig-117_14963_1	tet32	3000196	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+High2_contig-117_141542_1	sul1	3000410	protein homolog model	sulfonamide antibiotic	antibiotic target replacement	sulfonamide resistant sul
+High3_contig-117_47416_1	floR	3002705	protein homolog model	phenicol antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+High6_contig-117_3214_3	tetM	3000186	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+High6_contig-117_20512_1	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+High8_contig-117_4499_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+High8_contig-117_13724_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+Laiwu-LwIlLe_scaffold1519_2_74	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+Laiwu-LwIlLe_scaffold2574_3_120	Klebsiella pneumoniae KpnH	3004597	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; penam; peptide antibiotic; penem	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+Laiwu-LwIlLe_scaffold4749_3_127	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+Laiwu-LwIlLe_C2426234_1_1	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+Laiwu-LwIlOb_scaffold33028_1_1	Escherichia coli ampC beta-lactamase	3004290	protein homolog model	cephalosporin; penam	antibiotic inactivation	ampC-type beta-lactamase
+Low1_contig-117_94837_1	tet(D)	3000168	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+Low7_contig-117_2165_7	APH(3'')-Ib	3002639	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(3'')
+s1004M_scaffold344338_1_3895_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+s126572_scaffold159563_1_6528_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+s126572_scaffold165020_1_16136_10	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s10_scaffold13467_3_3756_6	vanRG	3002926	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanR
+s10_scaffold142972_1_9485_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s126572_scaffold702_1_5694_1	AcrE	3000499	protein homolog model	fluoroquinolone antibiotic; cephalosporin; cephamycin; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s126572_scaffold103204_1_13172_3	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s126572_scaffold135955_1_17916_3	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+s126572_scaffold151084_1_23127_16	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s126575_scaffold155208_1_10605_4	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+s126575_scaffold165201_1_4166_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s126610_scaffold3086_2_12788_14	APH(2'')-If	3004191	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+s127575_scaffold101438_1_102567_6	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+s127575_scaffold113122_1_23681_16	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s127575_scaffold113179_1_35849_12	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s127063_scaffold946_1_32581_2	tet(W/N/W)	3004442	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+s127063_scaffold946_1_32581_3	tet(W/N/W)	3004442	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+s127063_scaffold2807_2_352261_9	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+s127063_scaffold121980_1_4957_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+s127063_scaffold127562_1_17485_6	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s127063_scaffold128913_1_137388_20	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s127063_scaffold130861_1_6526_5	vanRD	3002923	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanR
+s127152_scaffold151587_1_89163_22	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s127152_scaffold153235_1_6868_3	EreD	3004608	protein homolog model	macrolide antibiotic	antibiotic inactivation	macrolide esterase
+s127530_scaffold67040_1_2296_3	APH(2'')-If	3004191	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+s1400-2M_scaffold367401_1_11664_5	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s127592_scaffold815407_1_5114_3	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+s13_scaffold9056_1_30107_16	Clostridium perfringens mprF	3003773	protein homolog model	peptide antibiotic	antibiotic target alteration	defensin resistant mprF
+s13_scaffold18681_2_8055_3	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s13_scaffold114695_1_16782_11	Klebsiella pneumoniae KpnH	3004597	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; carbapenem; cephalosporin; penam; peptide antibiotic; penem	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+s13_scaffold117962_1_7634_7	Klebsiella pneumoniae KpnF	3004583	protein homolog model	macrolide antibiotic; aminoglycoside antibiotic; cephalosporin; tetracycline antibiotic; peptide antibiotic; rifamycin antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+s13_scaffold148167_1_198165_140	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s1400-55F_scaffold135521_1_1690_2	aadS	3004683	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(6)
+s1400-55F_C5240180_1_8881_3	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s14_scaffold329673_1_3314_1	evgS	3000833	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; penam; tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump
+s14_scaffold342070_1_2429_3	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+s150761_scaffold92269_1_3073_2	aad(6)	3002628	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(6)
+s150761_C1477993_1_2433_3	Escherichia coli mdfA	3001328	protein homolog model	tetracycline antibiotic; benzalkonium chloride; rhodamine	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+s150947_scaffold4671_3_115398_27	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s150947_scaffold7003_1_8360_1	OXA-2	3001397	protein homolog model	carbapenem; cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+s150971_scaffold98698_1_34118_4	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s150971_scaffold102951_1_3632_6	AAC(6')-Ib9	3002580	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+s150971_C1793078_1_5478_2	AxyX	3004143	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s150971_C1794256_1_6482_4	OprZ	3004142	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s151070_scaffold80860_1_16603_16	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s151691_scaffold62609_1_1347_2	sul3	3000413	protein homolog model	sulfonamide antibiotic	antibiotic target replacement	sulfonamide resistant sul
+s151691_scaffold62630_1_14946_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s151691_scaffold65151_1_5658_4	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s151714_scaffold112122_1_5334_5	sul3	3000413	protein homolog model	sulfonamide antibiotic	antibiotic target replacement	sulfonamide resistant sul
+s151087_scaffold308687_1_154057_48	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s151087_scaffold311126_1_21630_9	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s151087_scaffold311181_1_11907_5	AxyY	3004144	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; aminoglycoside antibiotic; cephalosporin	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s151087_C6774257_1_731_1	arr-8	3002853	protein homolog model	rifamycin antibiotic	antibiotic inactivation	rifampin ADP-ribosyltransferase (Arr)
+s151103_scaffold84609_1_76202_14	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+s151103_C2875366_1_978_1	aadA11	3002611	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(3'')
+s151246_scaffold75530_1_946_1	lnuC	3002837	protein homolog model	lincosamide antibiotic	antibiotic inactivation	lincosamide nucleotidyltransferase (LNU)
+s151246_scaffold104030_1_1585_3	ROB-1	3002995	protein homolog model	cephalosporin; penam	antibiotic inactivation	ROB beta-lactamase
+s151250_scaffold52503_1_34825_3	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s151487_scaffold6401_2_10718_4	sul1	3000410	protein homolog model	sulfonamide antibiotic	antibiotic target replacement	sulfonamide resistant sul
+s151760_scaffold165278_1_852_2	tetT	3000193	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+s3005M_scaffold7603_1_1050_1	ANT(3'')-IIa	3004089	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(3'')
+s18_scaffold184204_1_4304_1	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s18_scaffold194453_1_24279_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+s19_scaffold13665_1_86813_27	vanRG	3002926	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanR
+s19_scaffold13665_1_86813_29	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+s22_scaffold194_2_132618_25	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s22_scaffold194_2_132618_34	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s22_scaffold90683_2_28516_7	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s23_scaffold4487_1_11942_9	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+s23_scaffold113248_1_4728_2	vanXYG	3003069	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; vanXY
+s2_scaffold68828_1_1168_1	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+s2_scaffold186081_1_12013_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+s2_scaffold235685_1_154823_117	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s3480-25M_C5680021_1_516_2	tet(A)	3000165	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+s3480-28F_scaffold34195_1_1934_2	tetB(P)	3000195	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+s35_scaffold206136_1_5212_6	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+s3800-12F_scaffold277321_1_319735_51	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s3800-18M_scaffold33104_1_71124_28	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+s3800-18M_C5619347_1_1608_1	tet(44)	3000556	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+C4974_230331_2	CARB-3	3002242	protein homolog model	penam	antibiotic inactivation	CARB beta-lactamase
+C4975_417327_1	APH(2'')-If	3004191	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+s4_C2294682_1_1113_2	tetB(P)	3000195	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+s3800-48F_scaffold244250_1_7976_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s3800-53F_scaffold293344_1_856_1	mel	3000616	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+s3800-8M_scaffold29492_2_2133_1	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+s4_scaffold15891_1_67960_25	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+s4_scaffold46946_1_11577_7	emrA	3000027	protein homolog model	fluoroquinolone antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+s5_scaffold258823_1_4077_1	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+s602F_scaffold3332_1_1057_1	ErmF	3000498	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+s8_scaffold259595_1_2793_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F4666_201970_2	optrA	3003746	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F4692_144520_15	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4692_153913_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4692_419939_3	sul2	3000412	protein homolog model	sulfonamide antibiotic	antibiotic target replacement	sulfonamide resistant sul
+F4724_258764_2	ErmX	3000596	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+F4724_419010_18	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F4726_400679_32	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4791_16981_22	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F4840_207834_6	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F4842_168683_42	Acinetobacter baumannii AbaQ	3004574	protein homolog model	fluoroquinolone antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F4850_253271_1	ErmC	3000250	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+F4873_182465_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+C4978_286159_1	EreD	3004608	protein homolog model	macrolide antibiotic	antibiotic inactivation	macrolide esterase
+C4979_143837_4	tet(45)	3003196	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+C4979_157316_34	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+C4979_356319_2	tet36	3000197	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+C4982_66815_1	dfrA14	3002859	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+F4888_108299_6	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4889_302616_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F4890_38273_1	OXA-347	3001777	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+F4901_238910_1	ANT(3'')-IIa	3004089	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(3'')
+F4905_68245_1	evgS	3000833	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; penam; tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4936_1065_2	Tet(X3)	3004719	protein homolog model	glycylcycline; tetracycline antibiotic	antibiotic inactivation	tetracycline inactivation enzyme
+F4930_91900_1	tet(D)	3000168	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F4930_138351_2	QnrB6	3002720	protein homolog model	fluoroquinolone antibiotic	antibiotic target protection	quinolone resistance protein (qnr)
+F4930_175409_58	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4930_249423_95	Pseudomonas aeruginosa soxR	3004107	protein homolog model	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penam; tetracycline antibiotic; acridine dye; rifamycin antibiotic; phenicol antibiotic; triclosan	antibiotic target alteration; antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4930_253514_13	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4936_43965_7	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4936_124881_8	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4936_128895_13	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4943_184487_2	Pseudomonas aeruginosa soxR	3004107	protein homolog model	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penam; tetracycline antibiotic; acridine dye; rifamycin antibiotic; phenicol antibiotic; triclosan	antibiotic target alteration; antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4945_254594_5	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+C5071_87661_2	AAC(3)-IId	3004623	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(3)
+C5039_151111_1	floR	3002705	protein homolog model	phenicol antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F4960_25545_2	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+F4960_47589_1	plasmid-encoded cat (pp-cat)	3002689	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+F4962_9112_4	mdtF	3000796	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4962_19173_1	mdtO	3003549	protein homolog model	nucleoside antibiotic; acridine dye	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F4962_68312_5	acrB	3000216	protein homolog model	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; triclosan	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4962_229661_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F4962_266504_1	Mef(En2)	3004659	protein homolog model	macrolide antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F4972_115426_3	spd	3002631	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(9)
+F4972_366972_17	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F4973_141019_1	Escherichia coli acrA	3004043	protein homolog model	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; triclosan	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4973_449153_1	tetM	3000186	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+F4979_315071_1	tet(B)	3000166	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F4978_102918_1	CfxA6	3003097	protein homolog model	cephamycin	antibiotic inactivation	CfxA beta-lactamase
+F4983_355814_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F4997_121973_1	tet32	3000196	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+F4997_232906_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5014_43190_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5018_7886_15	Escherichia coli ampC beta-lactamase	3004290	protein homolog model	cephalosporin; penam	antibiotic inactivation	ampC-type beta-lactamase
+F5018_119237_34	emrY	3000254	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5018_311732_2	CARB-3	3002242	protein homolog model	penam	antibiotic inactivation	CARB beta-lactamase
+F5020_5949_1	SAT-4	3002897	protein homolog model	nucleoside antibiotic	antibiotic inactivation	streptothricin acetyltransferase (SAT)
+F5020_11938_1	aadA3	3002603	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(3'')
+F5021_285020_1	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5039_257856_2	OXA-21	3001416	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+F5039_257856_3	OXA-21	3001416	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+F5046_1533_1	OXA-347	3001777	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+F5052_132525_1	AAC(3)-IId	3004623	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(3)
+F5054_229756_1	dfrA17	3002860	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+F5056_289529_1	oqxA	3003922	protein homolog model	fluoroquinolone antibiotic; glycylcycline; tetracycline antibiotic; diaminopyrimidine antibiotic; nitrofuran antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5061_10101_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5071_9760_1	emrK	3000206	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5084_355230_1	ANT(2'')-Ia	3000230	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(2'')
+F5071_329936_4	QnrS1	3002790	protein homolog model	fluoroquinolone antibiotic	antibiotic target protection	quinolone resistance protein (qnr)
+F5100_217884_1	emtA	3004669	protein homolog model	macrolide antibiotic; lincosamide antibiotic	antibiotic target alteration	non-erm 23S ribosomal RNA methyltransferase (G748)
+F5108_242412_2	vga(E) Staphylococcus cohnii	3004715	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5108_243296_1	OXA-347	3001777	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+F5108_258851_4	msrC	3002819	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F4331_172672_2	Mef(En2)	3004659	protein homolog model	macrolide antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F4331_383392_2	dfrF	3002867	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+F5113_11380_1	emrK	3000206	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5113_394650_2	msrA	3000251	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5114_151754_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5115_30620_1	AER-1	3002481	protein homolog model	penam	antibiotic inactivation	AER beta-lactamase
+F5138_251497_10	ErmC	3000250	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+F5138_509041_2	ANT(6)-Ia	3002626	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(6)
+F5143_89725_3	dfrF	3002867	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+F5153_449046_2	aadS	3004683	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(6)
+F5155_485690_4	ErmT	3000595	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+F5155_506297_1	AAC(6')-Ib4	3002577	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+F5157_41873_1	AcrE	3000499	protein homolog model	fluoroquinolone antibiotic; cephalosporin; cephamycin; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5158_182746_3	AcrS	3000656	protein homolog model	fluoroquinolone antibiotic; cephalosporin; glycylcycline; cephamycin; penam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; triclosan	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5163_73312_1	ANT(6)-Ia	3002626	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(6)
+F4372_304721_1	Streptococcus suis chloramphenicol acetyltransferase	3004455	protein homolog model	phenicol antibiotic	antibiotic inactivation	chloramphenicol acetyltransferase (CAT)
+F5163_373093_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5173_146460_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5179_116058_1	ErmX	3000596	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+F5236_97886_4	Erm(49)	3004626	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+F4390_100571_8	AcrF	3000502	protein homolog model	fluoroquinolone antibiotic; cephalosporin; cephamycin; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4390_156895_2	gadX	3000508	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F4395_86352_1	tet(D)	3000168	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5250_196975_2	ErmC	3000250	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic	antibiotic target alteration	Erm 23S ribosomal RNA methyltransferase
+F5256_112641_4	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5260_391858_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5284_234572_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5288_168875_1	tet(45)	3003196	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5290_32043_2	dfrA27	3004550	protein homolog model	diaminopyrimidine antibiotic	antibiotic target replacement	trimethoprim resistant dihydrofolate reductase dfr
+F5290_152506_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5298_171425_2	emrY	3000254	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5302_3083_23	vanI	3003723	protein homolog model	glycopeptide antibiotic	antibiotic target alteration	glycopeptide resistance gene cluster; van ligase
+F5300_39147_10	CRP	3000518	protein homolog model	macrolide antibiotic; fluoroquinolone antibiotic; penam	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5302_70067_1	OXA-363	3001550	protein homolog model	cephalosporin; penam	antibiotic inactivation	OXA beta-lactamase
+F5313_345720_5	AAC(3)-IV	3002539	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(3)
+F4404_114921_2	SAT-4	3002897	protein homolog model	nucleoside antibiotic	antibiotic inactivation	streptothricin acetyltransferase (SAT)
+F4410_92633_2	adeF	3000777	protein homolog model	fluoroquinolone antibiotic; tetracycline antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5336_367320_1	aadA5	3002605	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	ANT(3'')
+F5332_344860_2	AAC(6')-IIa	3002594	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	AAC(6')
+F5336_64995_1	tet(W/N/W)	3004442	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+F5348_56931_2	mdtO	3003549	protein homolog model	nucleoside antibiotic; acridine dye	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5352_324066_3	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5354_197760_1	APH(2'')-IIa	3002635	protein homolog model	aminoglycoside antibiotic	antibiotic inactivation	APH(2'')
+F5354_229929_2	mdtC	3000794	protein homolog model	aminocoumarin antibiotic	antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5362_42624_4	mdtG	3001329	protein homolog model	fosfomycin	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5362_281310_2	poxtA	3004470	protein homolog model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5370_244771_1	tet(W/N/W)	3004442	protein homolog model	tetracycline antibiotic	antibiotic target protection	tetracycline-resistant ribosomal protection protein
+F5381_185182_1	Escherichia coli ampC1 beta-lactamase	3004611	protein homolog model	cephalosporin; penam	antibiotic inactivation	ampC-type beta-lactamase
+F5382_258197_3	tet(33)	3000478	protein homolog model	tetracycline antibiotic	antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+BGI_PIG-033_GL0146709	Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	3003369	protein variant model	elfamycin antibiotic	antibiotic target alteration	elfamycin resistant EF-Tu
+BGI_BHZ-11B_GL0043764	Haemophilus influenzae PBP3 conferring resistance to beta-lactam antibiotics	3004446	protein variant model	cephalosporin; cephamycin; penam	antibiotic target alteration	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics
+BGI_BHZ-11B_GL0094860	Escherichia coli GlpT with mutation conferring resistance to fosfomycin	3003889	protein variant model	fosfomycin	antibiotic target alteration	antibiotic-resistant GlpT
+BGI_EYZ-381B_GL0314521	Clostridioides difficile gyrB conferring resistance to fluoroquinolone	3004562	protein variant model	fluoroquinolone antibiotic	antibiotic target alteration	fluoroquinolone resistant gyrB
+C4936_67057_4	Mycobacterium tuberculosis folC with mutation conferring resistance to para-aminosalicylic acid	3004157	protein variant model	para-aminosalicylic acid	antibiotic target alteration	aminosalicylate resistant dihydrofolate synthase
+C4936_158230_3	Mycobacterium tuberculosis folC with mutation conferring resistance to para-aminosalicylic acid	3004157	protein variant model	para-aminosalicylic acid	antibiotic target alteration	aminosalicylate resistant dihydrofolate synthase
+F5385_232983_2	Clostridioides difficile gyrB conferring resistance to fluoroquinolone	3004562	protein variant model	fluoroquinolone antibiotic	antibiotic target alteration	fluoroquinolone resistant gyrB
+F5399_246969_1	Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	3003369	protein variant model	elfamycin antibiotic	antibiotic target alteration	elfamycin resistant EF-Tu
+F5422_266989_2	Mycobacterium tuberculosis rpsL mutations conferring resistance to Streptomycin	3003395	protein variant model	aminoglycoside antibiotic	antibiotic target alteration	antibiotic-resistant rpsL
+F4554_225458_4	Clostridioides difficile gyrB conferring resistance to fluoroquinolone	3004562	protein variant model	fluoroquinolone antibiotic	antibiotic target alteration	fluoroquinolone resistant gyrB
+F5510_171668_5	eatAv	3003761	protein variant model	macrolide antibiotic; lincosamide antibiotic; streptogramin antibiotic; tetracycline antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic	antibiotic target protection	ABC-F ATP-binding cassette ribosomal protection protein
+F5617_47083_2	Escherichia coli GlpT with mutation conferring resistance to fosfomycin	3003889	protein variant model	fosfomycin	antibiotic target alteration	antibiotic-resistant GlpT
+F5641_104421_1	Mycobacterium tuberculosis rpsL mutations conferring resistance to Streptomycin	3003395	protein variant model	aminoglycoside antibiotic	antibiotic target alteration	antibiotic-resistant rpsL
+I4930_64100_5	Mycobacterium tuberculosis folC with mutation conferring resistance to para-aminosalicylic acid	3004157	protein variant model	para-aminosalicylic acid	antibiotic target alteration	aminosalicylate resistant dihydrofolate synthase
+I5640_402434_3	Campylobacter jejuni gyrA conferring resistance to fluoroquinolones	3003789	protein variant model	fluoroquinolone antibiotic	antibiotic target alteration	fluoroquinolone resistant gyrA
+I4978_6192_2	Mycobacterium tuberculosis folC with mutation conferring resistance to para-aminosalicylic acid	3004157	protein variant model	para-aminosalicylic acid	antibiotic target alteration	aminosalicylate resistant dihydrofolate synthase
+W5021_73532_4	Mycobacterium tuberculosis rpsL mutations conferring resistance to Streptomycin	3003395	protein variant model	aminoglycoside antibiotic	antibiotic target alteration	antibiotic-resistant rpsL
+allSample_unmapped_182490_19	Clostridioides difficile gyrB conferring resistance to fluoroquinolone	3004562	protein variant model	fluoroquinolone antibiotic	antibiotic target alteration	fluoroquinolone resistant gyrB
+allSample_unmapped_302418_20	Clostridioides difficile gyrB conferring resistance to fluoroquinolone	3004562	protein variant model	fluoroquinolone antibiotic	antibiotic target alteration	fluoroquinolone resistant gyrB
+allSample_unmapped_905124_5	Campylobacter jejuni gyrA conferring resistance to fluoroquinolones	3003789	protein variant model	fluoroquinolone antibiotic	antibiotic target alteration	fluoroquinolone resistant gyrA
+allSample_unmapped_1046702_2	Clostridioides difficile gyrB conferring resistance to fluoroquinolone	3004562	protein variant model	fluoroquinolone antibiotic	antibiotic target alteration	fluoroquinolone resistant gyrB
+allSample_unmapped_2760775_34	Clostridioides difficile gyrB conferring resistance to fluoroquinolone	3004562	protein variant model	fluoroquinolone antibiotic	antibiotic target alteration	fluoroquinolone resistant gyrB
+allSample_unmapped_2481343_7	Campylobacter jejuni gyrA conferring resistance to fluoroquinolones	3003789	protein variant model	fluoroquinolone antibiotic	antibiotic target alteration	fluoroquinolone resistant gyrA
+allSample_unmapped_3077382_2	Mycobacterium tuberculosis folC with mutation conferring resistance to para-aminosalicylic acid	3004157	protein variant model	para-aminosalicylic acid	antibiotic target alteration	aminosalicylate resistant dihydrofolate synthase
+Laiwu-LwIlLe_scaffold49908_1_3	Haemophilus influenzae PBP3 conferring resistance to beta-lactam antibiotics	3004446	protein variant model	cephalosporin; cephamycin; penam	antibiotic target alteration	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics
+Laiwu-LwIlLe_scaffold101189_3_29	Haemophilus influenzae PBP3 conferring resistance to beta-lactam antibiotics	3004446	protein variant model	cephalosporin; cephamycin; penam	antibiotic target alteration	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics
+s13_scaffold84200_1_22897_13	Haemophilus influenzae PBP3 conferring resistance to beta-lactam antibiotics	3004446	protein variant model	cephalosporin; cephamycin; penam	antibiotic target alteration	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics
+s1400-55F_scaffold58647_1_1434_1	Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	3003369	protein variant model	elfamycin antibiotic	antibiotic target alteration	elfamycin resistant EF-Tu
+s151337_C2485603_1_26441_16	Haemophilus influenzae PBP3 conferring resistance to beta-lactam antibiotics	3004446	protein variant model	cephalosporin; cephamycin; penam	antibiotic target alteration	Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics
+F5181_412025_2	Mycobacterium tuberculosis rpsL mutations conferring resistance to Streptomycin	3003395	protein variant model	aminoglycoside antibiotic	antibiotic target alteration	antibiotic-resistant rpsL
+F5256_250210_3	Mycobacterium tuberculosis rpsL mutations conferring resistance to Streptomycin	3003395	protein variant model	aminoglycoside antibiotic	antibiotic target alteration	antibiotic-resistant rpsL
+BGI_PIG-027_GL0023817	Escherichia coli soxR with mutation conferring antibiotic resistance	3003381	protein overexpression model	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; triclosan	antibiotic target alteration; antibiotic efflux	ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump
+BGI_BHZ-11B_GL0075996	Escherichia coli soxS with mutation conferring antibiotic resistance	3003511	protein overexpression model	fluoroquinolone antibiotic; monobactam; carbapenem; cephalosporin; glycylcycline; cephamycin; penam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; triclosan; penem	antibiotic target alteration; antibiotic efflux; reduced permeability to antibiotic	ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams
+BGI_SYZ-442B_GL0118444	tetR	3003479	protein overexpression model	tetracycline antibiotic	antibiotic target alteration; antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+C4936_234238_2	tetR	3003479	protein overexpression model	tetracycline antibiotic	antibiotic target alteration; antibiotic efflux	major facilitator superfamily (MFS) antibiotic efflux pump
+F5480_15591_1	Escherichia coli marR mutant conferring antibiotic resistance	3003378	protein overexpression model	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; triclosan	antibiotic target alteration; antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+F5572_216613_2	Escherichia coli acrR with mutation conferring multidrug antibiotic resistance	3003807	protein overexpression model	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; triclosan	antibiotic target alteration; antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+allSample_unmapped_9900194_2	Escherichia coli marR mutant conferring antibiotic resistance	3003378	protein overexpression model	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; triclosan	antibiotic target alteration; antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
+S114106B_418617_2	Escherichia coli acrR with mutation conferring multidrug antibiotic resistance	3003807	protein overexpression model	fluoroquinolone antibiotic; cephalosporin; glycylcycline; penam; tetracycline antibiotic; rifamycin antibiotic; phenicol antibiotic; triclosan	antibiotic target alteration; antibiotic efflux	resistance-nodulation-cell division (RND) antibiotic efflux pump
