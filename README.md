@@ -91,6 +91,8 @@ The KEGG Orthology and pathway, CAZymes family, EggNOG Orthology,antibiotic Resi
 
 Gene abundance were caculated by aligning clean reads of each sample to the gene catalog to obtained the counts of mapped reads, and  normalized to read count fragments per kilobase million (FPKM). The abundance of function items were performed were calculated by adding the abundances of all its members falling within each category with R scripts. 
 
+### Construction of the metagenome-assembled genomes
+
 #### Part7: 07_genome_reconstruction.sh
 
 The steps related to reconstruction of metagenome-assembled genomes (MAG) are included in this Part. Binning, refinement, reassembly, genome annotation and abundance estimation of MAGs were performed with the modules of metaWRAP pipeline. dRep software was used for dereplication of MAGs. And taxonomic classification and phylogenetic analysis were processed by GTDB-tk and PhyloPhlAn 3.0, respectively. 
