@@ -41,7 +41,7 @@ Note: Make all needed command of software availabled in the "~/bin" directory or
 
 All databases are stored in the "~/Datebase" directory. 
 
-The name,description and availavlity of the database are as follows: 
+The name,description and availability of the database are as follows: 
 
 |Database|Version/release date|Description|Availability|
 |:-------|:-------------------|:----------|:-----------|
