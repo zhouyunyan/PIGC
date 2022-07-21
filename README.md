@@ -21,9 +21,9 @@ The installation method refer to the manual of each software. The name, version 
 |MEGAHIT (v1.1.3)|https://github.com/voutcn/megahit|
 |Bowtie 2 (v2.3.4.1)|https://anaconda.org/bioconda/bowtie2|
 |Prodigal (v2.6)|https://github.com/hyattpd/Prodigal|
-|CD-HIT (v4.8.1)|https://github.com/weizhongli/cdhit/releases|
+|CD-HIT (v4.8.1)|https://github.com/weizhongli/cdhit|
 |featurecount (v2.0.1)|http://bioinf.wehi.edu.au/featureCounts/|
-|diamond (v0.9.21.122)|http://www.diamondsearch.org/index.php|
+|diamond (v0.9.21.122)|https://github.com/bbuchfink/diamond|
 |BASTA (v1.3)|https://github.com/timkahlke/BASTA|
 |HMMER (v3.1b2)|http://hmmer.org/|
 |BLAST (v2.10.1+)|ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/|
